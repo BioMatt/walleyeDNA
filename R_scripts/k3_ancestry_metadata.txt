@@ -1,4 +1,4 @@
-V1	V2	Cluster1	Cluster2	Cluster3	ancestry
+Individual	Site	Cluster1	Cluster2	Cluster3	ancestry
 SC-17	Swan_Creek	1e-05	0.216139	0.783851	Admixed
 SC-22	Swan_Creek	1e-05	0.482865	0.517125	Admixed
 SC-47	Swan_Creek	1e-05	0.156799	0.843191	Admixed
