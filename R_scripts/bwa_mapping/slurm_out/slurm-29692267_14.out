@@ -1,0 +1,14 @@
+/home/biomatt/scratch/walleye_dna/bwa_aligned_reads/KS-22.bam
+11512104 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+1291870 + 0 supplementary
+0 + 0 duplicates
+11262196 + 0 mapped (97.83% : N/A)
+10220234 + 0 paired in sequencing
+5110117 + 0 read1
+5110117 + 0 read2
+5036076 + 0 properly paired (49.28% : N/A)
+9799914 + 0 with itself and mate mapped
+170412 + 0 singletons (1.67% : N/A)
+4450398 + 0 with mate mapped to a different chr
+2055945 + 0 with mate mapped to a different chr (mapQ>=5)

@@ -1,0 +1,14 @@
+/home/biomatt/scratch/walleye_dna/bwa_aligned_reads/SC-44.bam
+8668200 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+972848 + 0 supplementary
+0 + 0 duplicates
+8471837 + 0 mapped (97.73% : N/A)
+7695352 + 0 paired in sequencing
+3847676 + 0 read1
+3847676 + 0 read2
+3832856 + 0 properly paired (49.81% : N/A)
+7361272 + 0 with itself and mate mapped
+137717 + 0 singletons (1.79% : N/A)
+3288896 + 0 with mate mapped to a different chr
+1533239 + 0 with mate mapped to a different chr (mapQ>=5)
