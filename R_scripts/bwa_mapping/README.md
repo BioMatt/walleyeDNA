@@ -1,4 +1,4 @@
-This files were used to analyze mapping percentages of walleye RAPTURE data to the yellow perch genome by bwa. 
+These files were used to analyze mapping percentages of walleye RAPTURE data to the yellow perch genome by bwa. 
 
 Samtools flagstat (flagstat.sh) was used in an array to get mapping percentages.
 
