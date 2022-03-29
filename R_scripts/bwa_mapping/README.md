@@ -2,7 +2,7 @@ These files were used to analyze mapping percentages of walleye RAPTURE data to 
 
 Samtools flagstat (flagstat.sh) was used in an array to get mapping percentages.
 
-The outputs from samtools flagstat are saved in slurm_out. 
+The outputs from samtools flagstat were saved in slurm_out. 
 
 The slurm outputs were analyzed with the R script bwa_mapping.R, which looped through all the files and calculated a mean and standard deviation for mapping percentages.
 
