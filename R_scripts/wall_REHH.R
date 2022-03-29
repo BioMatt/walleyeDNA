@@ -4,7 +4,7 @@
 library(rehh)
 library(vcfR)
 library(tidyverse)
-# The ggman oacjage is used throughout to make Manhattan plots. See https://github.com/drveera/ggman
+# The ggman package is used throughout to make Manhattan plots. See https://github.com/drveera/ggman
 library(ggman)
 library(patchwork)
 # Read in the phased/imputed vcf just to get a list of the unique chromosomes in the file
